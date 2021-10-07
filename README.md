@@ -29,8 +29,6 @@ Make changes
 
 ![App Screenshot](image/pic6.png)
 
-![App Screenshot](image/pic6.png)
-
 ![App Screenshot](image/l2.png)
 
 ![App Screenshot](image/contactpage-1.png)
